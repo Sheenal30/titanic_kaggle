@@ -1,0 +1,15 @@
+name: titanic_kaggle
+channels:
+  - conda-forge
+  - defaults  
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - seaborn
+  - xgboost           
+  - lightgbm
+  - joblib
+  - matplotlib
+  - streamlit
+  - ipykernel
