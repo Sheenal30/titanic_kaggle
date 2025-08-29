@@ -33,7 +33,7 @@ The data is provided by Kaggle and consists of two files: `train.csv` (891 passe
 ## Results
 submission_top_features.csv placed in the top 23% of the leaderboard
 
-## Insights and Lessons Learned
+## Lessons
 - In small datasets, simpler models with carefully selected features outperformed complex approaches
 - Feature engineering is crucial, but too many features can lead to overfitting
 - Logistic Regression showed minimal overfitting and generalized well
