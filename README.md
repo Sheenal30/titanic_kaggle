@@ -39,4 +39,4 @@ submission_top_features.csv placed in the top 23% of the leaderboard
 - Logistic Regression showed minimal overfitting and generalized well
 - Complex models (Random Forest, CatBoost) were prone to overfitting on this small dataset
 
-### This project taught me that simplicity often trumps complexity, especially with limited data 😊
+### Taught me that simplicity often trumps complexity, especially with limited data 😊
