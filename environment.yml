@@ -13,3 +13,6 @@ dependencies:
   - matplotlib
   - streamlit
   - ipykernel
+  - scikit-learn
+  - catboost
+  - shap
